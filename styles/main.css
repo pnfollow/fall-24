@@ -1,1 +1,44 @@
-/*# sourceMappingURL=main.css.map */
+@charset "utf-8";
+/* CSS Document */
+
+
+section {
+display: inline-block;
+text-align: Center;
+	justify-content: flex-start;
+
+}
+nav {
+text-transform: uppercase;
+	padding: 20px;
+	margin: 10px;
+	display: inline-block;
+	justify-content: flex-end;
+	width: 900px;
+	
+}
+.section {
+text-transform: uppercase;
+text-align: Left;
+	padding: 5px;
+	margin: 50px;
+	display: inline-block;
+display: flex;
+}
+.header {
+	background-color: black;
+	color: white;
+display: flex;
+}
+figure {
+	display: block;
+	display: flex;
+	justify-content: flex-end;
+}
+li {
+text-transform: uppercase;
+	margin: 10px;
+	display: inline-block;
+	
+  
+}
